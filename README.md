@@ -1,4 +1,4 @@
-# iNfiniteOptions
+# iNfiniteOptions v1.0
 
 
 # What does it do ?
