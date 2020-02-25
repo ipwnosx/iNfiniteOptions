@@ -10,6 +10,6 @@
 * Update Cydia Sources
 * Fix cydo
 
-#Follow_Developer
+# Follow Developer
 [@aJBboCydia](https://twitter.com/aJBboCydia)
 [@CrazyMind90](https://twitter.com/CrazyMind90)
